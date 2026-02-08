@@ -1,0 +1,11 @@
+{
+  "name": "testhinode",
+  "version": "1.0.0",
+  "description": "Hinode-based website",
+  "scripts": {
+    "build": "hugo --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
